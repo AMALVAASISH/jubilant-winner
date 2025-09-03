@@ -2,3 +2,6 @@ non decreasing sorted order - [1,2,2,3,3,3,4,4,4,4,5,5,5,5,5,6] (not necessary t
 
 in place - so we dont have to create a new array
 
+in this, we are using two pointers, one to identify the unique elements and other to mark the position of the unique element to perform the in place shifting
+
+
