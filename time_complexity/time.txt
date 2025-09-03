@@ -1,0 +1,22 @@
+check all screenshots in mobile gallery
+
+time complexity
+
+it is used to measure the efficiency of algo in terms of speed as the input size grows
+
+low time complexity, better efficiency(speed)
+
+time complexity is not time taken
+
+
+big O notation is used to represnt worst case time complexity 
+
+the three famous big O notations are
+
+O(n) , O(log n), O(n*2), O(n log n)
+
+O(n log n) -> example (merge sort)
+
+space complexity(how much extra space are u using)
+
+
