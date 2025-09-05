@@ -1,2 +1,3 @@
 in place means modify the existing array
 
+check the movement of the x pointer and its conditions
