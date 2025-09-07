@@ -1,0 +1,6 @@
+O(n^2) - brute force approach
+here all possible combinations are used to find the max profit, so two loops are used (i = 0;i<n....j = i,j<n)
+
+the approach in the code used, is such that , two variables minimum and profit are used,
+so each element is compared, if it is the minimum and also the corresponding profit from that element [ and please check the condition in the code ]
+
