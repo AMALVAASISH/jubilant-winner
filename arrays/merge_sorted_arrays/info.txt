@@ -1,0 +1,33 @@
+non decreasing order means that it is increasing and can have duplicates
+
+first approach
+copy the elements of the second array to the first array and do a sort
+
+this is the brute force approach
+for adding the time complexity is O(m+n) and for sorting , the best is (m+n)log(m+n)
+
+so this is not a good time complexity, so we have to think of a better time complexity and approach
+
+
+2nd approach
+
+took pic of the solution, check in mobile
+there are two pointers used for checking the values , one in the copy of the first array and second in the second array and then lower 
+value is added to the original array
+
+time complexity - O(n+m)
+space complexity - O(m)
+
+since extra space is used here, we have to find a better approach without using this extra space
+
+code
+------> check in index.js
+
+
+
+
+3rd approach
+
+this approach focuses on filling the elements in the original array in reverse order, by using the two pointers and comparing
+
+check the code
