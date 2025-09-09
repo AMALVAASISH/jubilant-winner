@@ -1,0 +1,6 @@
+in this the two pointer approach is used
+
+x  - contain position where we need to fill the next non zero number in array
+so all the non zero numbers are shifted forward, after the loop is completed, the rest is cooverted to zeros
+
+pic is taken
