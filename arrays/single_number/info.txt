@@ -1,0 +1,23 @@
+first approach
+
+approach to solve this is using a hashmap(like a dictionary i think)
+
+this has space complexity - O(n) and space complexity - O(n)
+
+second approach
+
+extra space will not be used
+
+XOR operation is used(bitwise XOR)
+
+check image in namaste dsa
+
+read abt bitwise xor
+
+remember: when you hear abt duplicates, either removing or anything, always use xor, it is an easy solution
+
+space complexity: O(0)
+time complexity: O(n)
+
+every element appears twice or there are duplicates, you can use bitwise xor
+

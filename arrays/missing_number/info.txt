@@ -1,0 +1,14 @@
+in brute force approach, the array is first sorted and then a comaprison is made such that
+it is checked if the next element is +1 greater than the current element, if not we have found the missing number
+
+but this is not optimal, because sorting is O(nlogn)
+
+optimal approach 
+
+we always know the pattern of the data, so we can find the missing number, by subtracting the sum of n numbers and the numbers
+in the array
+
+
+
+
+
