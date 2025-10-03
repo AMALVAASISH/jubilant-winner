@@ -1,0 +1,5 @@
+5 + 4 + 3 + 2 + 1
+5 + sum of rest of numbers
+4 + sum of rest of numbers
+3 + sum of rest of numbers.........this goes on
+

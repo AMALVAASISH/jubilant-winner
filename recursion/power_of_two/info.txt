@@ -1,0 +1,2 @@
+we will do recursion here because we dont know how many times we have to divide by 2
+

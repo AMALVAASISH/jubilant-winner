@@ -1,0 +1,65 @@
+no photo
+no gender
+no full address
+
+full name 
+mobile and email address and linkedin
+
+no objective section needed
+
+
+first section should be
+projects/experience
+
+experience section contains the projects done in the company
+below that
+personal projects(in the tech stack u want)
+add github link and live demo link
+
+In projects
+add metrics
+add numbers
+add technical details
+
+eg: e commerce clone -  reduced page loading time to 400 ms
+give impactful contribution
+
+always use bullet points
+
+- designed this this this, devleoped this this this
+
+mention challenges faced, technical details
+
+sharding , multithreading, lazy loding....use fancy keywords
+
+==========================================
+
+length of resume  -  1 page
+important 3 projects should be in resume
+
+SECOND section
+skills/tech stack
+
+should contain keywords
+
+THIRD  section  
+education
+
+write college and high school,...no need to include CGPA, still u can write
+
+FOURTH 
+achievements and certifications
+hackathons
+certifications
+leetcode/hackerrank scores
+
+=========================
+
+
+DONT MAKE YOUR RESUME ACCORDING TO YOUR skills,
+MAKE YOUR RESUME ACCORDING TO JOB PROFILE
+
+
+
+
+
